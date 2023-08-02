@@ -1,3 +1,27 @@
 {
-    "server_version":"0.0.11"
+    "server_version":"0.0.11",
+    "games":{
+        "bh3_cn":{
+            "name":"崩坏3（国服）",
+            "default_path":"C:/Program Files/Honkai Impact 3/Games",
+            "filename":"BH3.exe",
+            "previous_version":"6.7.0",
+            "version":"6.8.0",
+            "download_link":"https://bundle.bh3.com/ptpublic/rel/20230702172043_o8BzGMLGBbVpTjyy/PC/BH3_v6.8.0_fe00767f5f60.7z",
+            "pre_download":false,
+            "pre_download_version":"",
+            "update_link":""
+        },
+        "ys_cn":{
+            "name":"原神（国服）",
+            "default_path":"C:/Program Files/Genshin Impact/Genshin Impact Game",
+            "filename":"YuanShen.exe",
+            "previous_version":"3.7.0",
+            "version":"3.8.0",
+            "download_link":"https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230625120029_C0NLGkC0fxSaNKnu/YuanShen_3.8.0.zip",
+            "pre_download":false,
+            "pre_download_version":"",
+            "update_link":""
+        }
+    }
 }
